@@ -17,7 +17,7 @@ Once authenticated you can manage your URLs and see some statistics. Thanks to [
 
 
 
-# Deployment
+# Deployment to Azure
 
 Until an automatic deployment is created, you will need to deploy some part manually. [All the steps to deploy the TinyBlazorAdmin app into Azure are listed here](deployment.md). You can also run it somewhere else if you prefer, even locally.
 
